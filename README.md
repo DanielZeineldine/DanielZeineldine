@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-👨‍💻 CS student | 🎹 Music Producer | 🍰 Baker 🚀 Full Stack Development
+👨‍💻 Full Stack Development | 🎹 Music Producer | 🍰 Baker 🚀 Computer Science
 
 * 🌍  I'm based in Lebanon
 * ✉️  You can contact me at [danyzein.8.id@gmail.com](mailto:danyzein.8.id@gmail.com)
