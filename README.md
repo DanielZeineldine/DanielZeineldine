@@ -1,16 +1,14 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Zeineldine
+Hi!
 =========================================================================================================================================
 
 Web Developer and Designer
 --------------------------
 
-👨‍💻 Full Stack Developer | 🎹 Music Producer | 🍰 Baker | 🚀 Computer Science Student
+👨‍💻 Full Stack Developer | 🎹 Music Producer
 
-* 🌍  I'm based in Lebanon
+* 🌍  Based in Lebanon
 * ✉️  You can contact me at [danyzein.8.id@gmail.com](mailto:danyzein.8.id@gmail.com)
-* 🧠  I'm learning advanced React
-* 🤝  I'm open to collaborating on React and expressJS projects
-* ⚡  I'm secretly Spiderman... but don't tell anyone
+* 🤝  I'm open to collaborating on React and Next.js projects
 
 ### Skills
 
